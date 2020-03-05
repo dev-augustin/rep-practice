@@ -1,5 +1,5 @@
-# rep-practice
+ # rep-practice
 
-first github repo
+ first github repo
 
-### this is my first github-repo
+ ### this is my first github-repo
